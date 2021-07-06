@@ -223,6 +223,7 @@ footer {
     padding-top: 15px;
     font-weight: normal;
     font-size: small;
+    flex-shrink: 1;
     font-family: "Source Sans Pro", sans-serif;
     margin-bottom: 8%;
     text-align: center;

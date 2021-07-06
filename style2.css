@@ -17,7 +17,7 @@ html, body {
 body {
     line-height: 1.75;
     font-size: 20px;
-    padding-top: 5%;
+    padding-top: 7%;
     font-weight: 400;
     color: #777777;
     background: url("assets/images/bg.jpg") no-repeat center center/cover;
@@ -220,13 +220,14 @@ section {
 }
 
 footer {
-    padding-top: 10px;
+    padding-top: 15px;
     font-weight: normal;
     font-size: small;
-    margin-bottom: 2em;
+    font-family: "Source Sans Pro", sans-serif;
+    margin-bottom: 7%;
     text-align: center;
     color: #ddd;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 /* Mobile Breakpoint */

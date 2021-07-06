@@ -16,8 +16,8 @@ html, body {
 
 body {
     line-height: 1.75;
+    padding-top: 8%;
     font-size: 20px;
-    padding-top: 7%;
     font-weight: 400;
     color: #777777;
     background: url("assets/images/bg.jpg") no-repeat center center/cover;
@@ -224,7 +224,7 @@ footer {
     font-weight: normal;
     font-size: small;
     font-family: "Source Sans Pro", sans-serif;
-    margin-bottom: 7%;
+    margin-bottom: 8%;
     text-align: center;
     color: #ddd;
     opacity: 0.9;
